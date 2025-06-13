@@ -55,7 +55,7 @@ financial-ai-agent/
 
 **1. 克隆项目**
 ```bash
-git clone https://github.com/your-username/financial-ai-agent.git
+git clone https://github.com/forliage/-Financial-AI-Agent-.git
 cd financial-ai-agent
 ```
 

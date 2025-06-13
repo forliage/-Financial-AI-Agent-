@@ -1,13 +1,13 @@
 # 核心库
-python-dotenv       # 用于从.env文件加载环境变量
-pandas              # 数据处理的核心库
-notebook            # 运行Jupyter Notebook
+python-dotenv
+pandas
+notebook
 
 # 金融数据源
-yfinance            # 强大的雅虎财经数据接口，适合国际市场和美股
-akshare             # 优秀的开源中文财经数据接口，适合A股
+yfinance
+tushare             # <-- 已替换
 
-# GUI框架 (我们将在后续部分使用)
+# GUI框架 (后续部分使用)
 gradio
 
 # 可视化 (后续部分使用)
